@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"gitlab.com/conspico/elasticshift/internal/pkg/shiftfile/ast"
-	"gitlab.com/conspico/elasticshift/internal/pkg/shiftfile/keys"
+	"github.com/elasticshift/shiftfile/ast"
+	"github.com/elasticshift/shiftfile/keys"
 )
 
 // func TestShell(t *testing.T) {

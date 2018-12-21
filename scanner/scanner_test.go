@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"testing"
 
-	"gitlab.com/conspico/elasticshift/internal/pkg/shiftfile/token"
+	"github.com/elasticshift/shiftfile/token"
 )
 
 type Expected struct {
