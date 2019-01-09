@@ -15,7 +15,7 @@ variables:
   GOPATH: '$(system.defaultWorkingDirectory)/gopath' # Go workspace path
   modulePath: '$(GOPATH)/src/github.com/$(build.repository.name)' # Path to the module's code
   GO111MODULE: on
-  CODECOV_TOKEN: 'a8c88ddf-3b5c-418c-94ab-52c7d4eb354b'
+  CODECOV_TOKEN: '894bf17e-9b65-48ee-84be-1be02cd6b42a'
 
 steps:
 - script: |
